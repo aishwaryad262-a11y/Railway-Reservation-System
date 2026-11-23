@@ -1,0 +1,15 @@
+# Database credentials
+db.php
+
+# Environment files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+Create estimate*
+Create estimate*_files/
